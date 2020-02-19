@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Hello humans. I am trying to learn how to host my projects on GitHub. 
